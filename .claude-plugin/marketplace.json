@@ -1,0 +1,17 @@
+{
+  "name": "clojure-flow-storm-skill",
+  "metadata": {
+    "description": "Clojure FlowStorm skill set for AI coding agents - ClojureStorm setup, vanilla tracing, ClojureScript/shadow debugging, instrumentation controls, data windows, nREPL outputs, remote debugging, and trace limits."
+  },
+  "owner": {
+    "name": "stoating"
+  },
+  "plugins": [
+    {
+      "name": "clojure-flow-storm",
+      "source": "./",
+      "description": "Clojure FlowStorm skill - ClojureStorm setup, vanilla tracing, ClojureScript/shadow debugging, instrumentation controls, data windows, nREPL outputs, remote debugging, and trace limits.",
+      "version": "0.1.0"
+    }
+  ]
+}
