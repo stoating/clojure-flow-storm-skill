@@ -10,14 +10,14 @@ Claude Code via this plugin marketplace:
 
 ```text
 /plugin marketplace add stoating/clojure-flow-storm-skill
-/plugin install clojure-flow-storm@clojure-flow-storm-skill
+/plugin install flow-storm@clojure-flow-storm-skill
 ```
 
 Claude Code via the aggregate marketplace:
 
 ```text
 /plugin marketplace add stoating/plugins
-/plugin install clojure-flow-storm@stoating
+/plugin install flow-storm@stoating
 ```
 
 Manual context usage:
