@@ -1,6 +1,5 @@
 {
   "name": "flow-storm",
   "description": "Clojure FlowStorm skill - ClojureStorm setup, vanilla tracing, ClojureScript/shadow debugging, instrumentation controls, data windows, nREPL outputs, remote debugging, and trace limits.",
-  "version": "0.1.0",
-  "skills": "flow-storm"
+  "version": "0.1.0"
 }
